@@ -1,3 +1,6 @@
+This project creates a template of slides for theatre subtitles using React. To open it, use npm start and run the app using localhost.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
