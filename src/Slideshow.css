@@ -1,0 +1,72 @@
+/* Slideshow.css */
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.h-screen {
+  height: 100vh; /* Full height of the viewport */
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.text-white {
+  color: white;
+}
+
+.p-8 {
+  padding: 2rem; /* Adjust padding as needed */
+}
+
+.text-center {
+  text-align: center;
+}
+
+.max-w-4xl {
+  max-width: 90rem; /* Example max-width */
+}
+
+.text-4xl {
+  font-size: 6rem; /* Example font size */
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.mb-4 {
+  margin-bottom: 1rem; /* Example margin bottom */
+}
+
+.text-2xl {
+  font-size: 5rem; /* Example font size */
+}
+
+.italic {
+  font-style: italic;
+}
+
+/* Button styles */
+button {
+  cursor: pointer;
+  z-index: 10;
+  background-color: rgba(172, 174, 173, 0.705); /* Change to a more visible color */
+    color: rgba(12, 12, 12, 0.97);
+    padding: 10px 20px; /* Adjust padding */
+    font-size: 16px; /* Make text larger */
+}
+
